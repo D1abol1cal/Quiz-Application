@@ -1,37 +1,31 @@
 # Flutter Quiz App
 
-Flutter Quiz App is a simple yet beautiful Flutter application that allows users to test their knowledge of Flutter concepts through a series of quiz questions. With its beginner-friendly interface and engaging quiz experience, users can learn and reinforce their understanding of Flutter while having fun.
+A simple Flutter quiz app that tests your knowledge of core Flutter concepts through a series of multiple-choice questions, shown one at a time with shuffled answer order, then scored at the end.
 
 ## Features
 
-- **Beautiful UI:** Enjoy a visually appealing and intuitive user interface designed to enhance the quiz experience.
-- **Quiz Questions:** Answer multiple-choice questions related to Flutter concepts and features.
-- **Score Tracking:** Keep track of your score as you progress through the quiz.
-- **Beginner-Friendly:** Ideal for beginners learning Flutter, with questions tailored to cover fundamental concepts.
+- Multiple-choice questions on fundamental Flutter concepts
+- Answers are shuffled each time a question is shown
+- A results screen with your score and a per-question summary (your answer vs. the correct one)
+- Restart the quiz from the results screen
 
 ## Screenshots
-![alt text](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.52 AM.jpeg>)
 
-![alt text](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.51 AM (1).jpeg>)
+![Start screen](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.51 AM.jpeg>)
+![Question screen](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.51 AM (1).jpeg>)
+![Results screen](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.52 AM.jpeg>)
 
-![alt text](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.51 AM.jpeg>)
+## Getting started
 
+### Prerequisites
 
+- [Flutter](https://flutter.dev/docs/get-started/install)
 
+### Run it
 
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/flutter-quiz-app.git
-
-2. Navigate to the directory
-   ```bash
-   cd flutter-quiz-app
-
-3. Run the App
-   ```bash
-   flutter run
-
-
+```bash
+git clone https://github.com/D1abol1cal/Quiz-Application.git
+cd Quiz-Application
+flutter pub get
+flutter run
+```
