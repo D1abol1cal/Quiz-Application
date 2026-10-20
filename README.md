@@ -11,9 +11,11 @@ A simple Flutter quiz app that tests your knowledge of core Flutter concepts thr
 
 ## Screenshots
 
-![Start screen](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.51 AM.jpeg>)
-![Question screen](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.51 AM (1).jpeg>)
-![Results screen](<App Screenshots/WhatsApp Image 2024-03-17 at 6.51.52 AM.jpeg>)
+<p align="center">
+  <img src="App%20Screenshots/WhatsApp%20Image%202024-03-17%20at%206.51.51%20AM.jpeg" width="30%" alt="Start screen" />
+  <img src="App%20Screenshots/WhatsApp%20Image%202024-03-17%20at%206.51.51%20AM%20%281%29.jpeg" width="30%" alt="Question screen" />
+  <img src="App%20Screenshots/WhatsApp%20Image%202024-03-17%20at%206.51.52%20AM.jpeg" width="30%" alt="Results screen" />
+</p>
 
 ## Getting started
 
